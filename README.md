@@ -1,3 +1,2 @@
 # itsmerjg.github.io
-
-Terminal based personal website.
+Terminal based personal website
