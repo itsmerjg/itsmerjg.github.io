@@ -5,7 +5,7 @@
 Hello! My name is Ryan Garde.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I am currently a Bioinformatics Analyst at Tempus Labs in Chicago, Illinois.</p><!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 <p>Previously I obtained my undergraduate and masters degrees from the University of Wisconsin-Milwaukee in Cellular & Molecular Biology.</p><!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 <p>I'm interested in healthcare and using the power of technology with science to accelerate research and help save lives.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
-<p>In my free time I love spending time with my wife, buying and selling profitable sneakers, and traveling!.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
+<p>In my free time I love spending time with my wife, buying and selling profitable sneakers, and traveling!</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
 <p>In my other free time, I enjoy solving problems and learning how to code.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
 <p> You can visit my other profiles here: <br> <a href="https://www.linkedin.com/in/ryan-garde/">LinkedIn</a> <br> <a href="https://github.com/itsmerjg">GitHub</a> <br> <a href="https://twitter.com/ryangahd">Twitter</a>.</p>
 
