@@ -1,6 +1,5 @@
 <span id="a">@itsmerjg</span>:<span id="b">~</span><span id="c">$</span> cd Ryan/<!-- kjsdfhkjdhsfkjdshfkj -->About_Me
 <span id="a">@itsmerjg</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->itsmerjg.txt<br/><br/>
-"<span id="k">You miss 100% of the shots you don't take - Wayne Gretzky</span>". - Michael Scott <!-- sjkfhskjf -->
 
 <p>Hello! My name is Ryan Garde.</p><!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 <p>I am currently a Bioinformatics Analyst at Tempus Labs in Chicago, Illinois.</p><!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
@@ -13,4 +12,6 @@
 If you would like to get in touch with me<!-- slightdelayhere-->, feel free to send me an <a href="mailto: ryanjgarde@gmail.com">Email</a>.
 
 <p>Thanks for visiting!</p>
+
+"<span id="k">You miss 100% of the shots you don't take - Wayne Gretzky</span>". - Michael Scott <!-- sjkfhskjf -->
 <span id="a">@itsmerjg</span>:<span id="b">~</span><span id="c">$</span> exit
