@@ -1,5 +1,5 @@
-<span id="a">@itsmerjg</span>:<span id="b">~</span><span id="c">$</span> cd <!-- kjsdfhkjdhadsfsdfasfasfasfsfkjasdfajkjkjkjkadsfasfdfjkjksdfasfasfdshfkj -->Desktop/ <!-- kjsdfhkjdhadsfsdfasfasdfdasfasfasfsfkjasdfajkjkjkjkjkjksdfasfasfdshfkj -->ryan_garde/
-<span id="a">@itsmerjg</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkdgasdklklklklklfasdfasfasdfasdfasdfasdfasdffjdshjkjfkj -->about_me<br/><br/>
+<span id="a">@itsmerjg</span>:<span id="b">~</span><span id="c">$</span> cd <!-- kjsdfhkjdhadsfsdfasfasfasfsfkjasdfajkjkjkjkadsfasfdfjkjksdfasfasfdshfkj -->Desktop/<!-- kjsdfhkjdhadsfsdfasfasdfdasfasfasfsfkjasdfajkjkjkjkjkjksdfasfasfdshfkj -->ryan_garde/
+<span id="a">@itsmerjg</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkdgasdklklkadfdfdflklklfasdfasfasdfasdfasdfasdfasdffjdshjkjfkj -->about_me<br/><br/>
 
 <p>hello! my name is <!-- laglaglaglaglaglaglaglaglaglaglaglag -->ryan garde</p><!-- ksjdokhdfgdufdfkjhfkjljljljljljljljljewahfiekanbvahdfkjhaaasdfaeafdsdfasdfasfasdffkjhakf -->
 <p>i am currently a bioinformatics analyst at tempus. i'm interested in combining genomic & molecular data with technology to accelerate cancer research, optimize precision medicine & save lives</p><!-- ksjdokhdfgdugasdfasfhasdfasdfasdfasfdfdfkjhfkdsafasdfjahdfkjhafkjhakf -->
