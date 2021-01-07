@@ -10,6 +10,3 @@
 <p>thanks so much for visiting!</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkasdfasdfasfasfjasdfasdfsdhkfjhdskjfhksdjhfkdsj -->
 
 <span id="a">@itsmerjg</span>:<span id="b">~</span><span id="c">$</span> exit
-
-
-<span id="a">pradyuman@dixit</span>:<span id="b">~</span><span id="c">$</span> cd Pradyuman/<!-- kjsdfhkjdhsfkjdshfkj -->About_Pradyuman
